@@ -28,7 +28,7 @@ body{
     height: 100vh;   /*remover antes de habilitar background-image acima*/
     margin: 0;
     padding: 0;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(140, 241, 172);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -94,5 +94,3 @@ footer {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
-
