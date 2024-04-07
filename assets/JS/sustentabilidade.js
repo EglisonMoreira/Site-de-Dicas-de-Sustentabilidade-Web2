@@ -15,5 +15,3 @@ const button = document.querySelector('.btn');
     }
     setInterval(changeBorderColor, 1000); // Altera a cor da borda a cada segundo
 
-
-
