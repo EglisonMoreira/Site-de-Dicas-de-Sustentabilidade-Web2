@@ -28,7 +28,7 @@ body{
     height: 100vh;   /*remover antes de habilitar background-image acima*/
     margin: 0;
     padding: 0;
-    background-color: rgb(140, 241, 172);
+    background-color: rgb(216, 250, 227);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
