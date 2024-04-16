@@ -7,4 +7,5 @@ projeto web responsivo que atenda ao tema sorteado, utilizando o
 framework Bootstrap para garantir uma excelência experiência de
 usuário em qualquer dispositivo.  
 
-link para o projeto no GitHub pages: https://github.com/EglisonMoreira/Site-de-Dicas-de-Sustentabilidade-Web2.git
+link para o projeto no Git pages: https://eglisonmoreira.github.io/Site-de-Dicas-de-Sustentabilidade-Web2/
+
